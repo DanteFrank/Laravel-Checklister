@@ -23,7 +23,7 @@
   
             <ul class="c-header-nav ml-auto mr-4">
                 <li class="c-header-nav-item d-md-down-none mx-2">
-                    <a class="c-header-nav-link" href="#">
+                    <a class="c-header-nav-link" href="#s">
                         <svg class="c-icon">
                             <use xlink:href="vendors/@coreui/icons/svg/free.svg#cil-bell"></use>
                         </svg>
